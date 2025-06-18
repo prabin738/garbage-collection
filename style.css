@@ -1,0 +1,15 @@
+.main {
+  height: 70vh;
+  width: 50vh;
+  background-color: gray;
+  margin: auto;
+}
+.green {
+  height: 22vh;
+  width: 18vh;
+  background-color: green;
+  border-radius: 50%;
+  margin: auto;
+  margin-top: 30px;
+  top: 20px;
+}
